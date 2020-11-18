@@ -1886,7 +1886,7 @@ body.is-preload #main .thumb {
   -ms-transition-delay: 2.525s;
   transition-delay: 2.525s;
   height: calc(40vh - 2em);
-  min-height: 22em;
+  min-height: 24em;
   width: 25%;
 }
 
@@ -1981,7 +1981,7 @@ body.is-preload #main .thumb {
     -ms-transition-delay: 2.075s;
     transition-delay: 2.075s;
     height: calc(40vh - 2em);
-    min-height: 26em;
+    min-height: 28em;
     width: 25%;
   }
 
@@ -2056,7 +2056,7 @@ body.is-preload #main .thumb {
     -ms-transition-delay: 1.625s;
     transition-delay: 1.625s;
     height: calc(40vh - 2em);
-    min-height: 27em;
+    min-height: 28em;
     width: 33.33%;
   }
 
@@ -2110,7 +2110,7 @@ body.is-preload #main .thumb {
     -ms-transition-delay: 2.075s;
     transition-delay: 2.075s;
     height: calc(28.57143vh - 1.33333em);
-    min-height: 31em;
+    min-height: 32em;
     width: 50%;
   }
 
